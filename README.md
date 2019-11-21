@@ -8,7 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 git clone https://github.com/IbengAR/Dor.git # or clone your own fork
-cd telkomsel-api
+cd Dor
 npm install
 npm start
 ```
